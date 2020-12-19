@@ -1,0 +1,42 @@
+Partlist exported from /home/vlado/dokumenti/projekti/retrocomputing/yu retro computing/orao/ORAO2007 - vlado fix.sch at 12/17/20 10:03 PM
+
+Qty Value    Device      Package   Parts                                                                                                         Description                                                     
+1            DIL16S      SOCKED-16 IC3                                                                                                           Dual In Line                                                    
+2            PINHD-1X18  1X18      JP2, JP4                                                                                                      PIN HEADER                                                      
+4            PINHD-1X2   1X02      PWR, RESET, VIDEO_OUT, ZV                                                                                     PIN HEADER                                                      
+2            PINHD-1X3   1X03      JP3, ROMSEL                                                                                                   PIN HEADER                                                      
+1            PINHD-1X5   1X05      JP1                                                                                                           PIN HEADER                                                      
+2   100      RESEU-7,5   R-7,5     R18, R19                                                                                                                                                                      
+17  100n     CAPNP-5     C-5       C2, C3, CD1, CD2, CD3, CD4, CD5, CD6, CD7, CD8, CD9, CD10, CD11, CD12, CD13, CD14, CD15                                                                                       
+2   100p     CAPNP-5     C-5       C1, C8                                                                                                                                                                        
+19  10K      RESEU-7,5   R-7,5     R2, R3, R13, R22, R23, R24, R25, R26, R31, R32, R33, R34, R35, R36, R37, R38, R39, R40, R41                                                                                   
+1   10n      CAPNP-5     C-5       C5                                                                                                                                                                            
+1   10u      ELC-2,5L    ES-2,5L   C7                                                                                                                                                                            
+5   1K       RESEU-7,5   R-7,5     R5, R8, R27, R28, R29                                                                                                                                                         
+1   1K2      RESEU-7,5   R-7,5     R43                                                                                                                                                                           
+1   1K5      RESEU-7,5   R-7,5     R6                                                                                                                                                                            
+24  1N4148   1N4148      DO35-10   D1, D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, D12, D13, D14, D15, D16, D17, D18, D19, D20, D21, D22, D23, D24 DIODE                                                           
+1   1n       CAPNP-5     C-5       C6                                                                                                                                                                            
+2   22K      RESEU-7,5   R-7,5     R14, R15                                                                                                                                                                      
+1   22n      CAPNP-5     C-5       C4                                                                                                                                                                            
+1   27256    27256       DIL28     IC4                                                                                                           MEMORY                                                          
+3   330      RESEU-7,5   R-7,5     R7, R20, R21                                                                                                                                                                  
+2   47       RESEU-7,5   R-7,5     R12, R45                                                                                                                                                                      
+3   470      RESEU-7,5   R-7,5     R4, R11, R42                                                                                                                                                                  
+3   47K      RESEU-7,5   R-7,5     R10, R16, R17                                                                                                                                                                 
+2   4K7      RESEU-7,5   R-7,5     R9, R44                                                                                                                                                                       
+1   6264     62256P      DIL28-6   IC26                                                                                                          MEMORY                                                          
+1   6502     G65SC02P    DIP-40    U2                                                                                                            California Micro Devices Version                                
+1   74AC04N  74AC04N     DIL14     IC14                                                                                                          Hex INVERTER                                                    
+1   74AC139N 74AC139N    DIL16     IC20                                                                                                          Dual 2-line to 4-line DECODER/DEMULTIPLEXER                     
+1   74AC245N 74AC245N    DIL20     IC7                                                                                                           Octal BUS TRANSCEIVER, 3-state                                  
+5   74AC257N 74AC257N    DIL16     IC9, IC10, IC13, IC16, IC17                                                                                   Quadruple 2-to 1 line data SELECTOR/MULTIPLEXER                 
+1   74AC390N 74AC390N    DIL16     IC22                                                                                                          Dual 4-bit decade and binary COUNTER                            
+2   74AC393N 74AC393N    DIL14     IC18, IC19                                                                                                    Dual 4-bit decade and binary COUNTER                            
+1   74AC74N  74AC74N     DIL14     IC21                                                                                                          Dual D type positive edge triggered FLIP FLOP, preset and clear 
+1   74HC165N 74HC165N    DIL16     IC8                                                                                                           8-bit parallel load SHIFT REGISTER                              
+1   8MHz     CRYTALHC49S HC49/S    Q1                                                                                                            CRYSTAL                                                         
+2   BC108C   BC108C      TO18      T1, T3                                                                                                        NPN Transistor                                                  
+1   BC214    BC214       TO92      T2                                                                                                            PNP Transistor                                                  
+1   GAL16V8  16V8        DIL20     IC1                                                                                                           PAL                                                             
+1   NE556N   NE556N      DIL14     IC2                                                                                                           Dual TIMER                                                      
